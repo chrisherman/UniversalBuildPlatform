@@ -57,3 +57,8 @@ A parametric Autodesk Fusion script to rapidly generate modular, multi-node moun
 3. Under **My Scripts**, click **+ (Create)**, choose **Python**, name it `UniversalMountingSystem`, and click **Create**.
 4. Select the script, click **Edit**, and replace the contents of the Python file with the script code.
 5. Click **Run** in Fusion, enter your desired parameters, and hit **OK**.
+
+Script: https://github.com/chrisherman/UniversalBuildPlatform/blob/main/UniversalBuildPlatform.py
+
+Or use the ready-meal examples and extrude to you liking.
+
