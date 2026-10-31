@@ -9,9 +9,9 @@ A parametric Autodesk Fusion script to rapidly generate modular, multi-node moun
 
 ---
 
-![Geometry](https://image%20(1).png?raw=true)
+![Geometry](./image%20(1).png?raw=true)
 
-![Example](https://image%20.png?raw=true)
+![Example](./image%20.png?raw=true)
 
 
 
