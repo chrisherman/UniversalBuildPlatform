@@ -60,5 +60,6 @@ A parametric Autodesk Fusion script to rapidly generate modular, multi-node moun
 
 Script: https://github.com/chrisherman/UniversalBuildPlatform/blob/main/UniversalBuildPlatform.py
 
-Or use the ready-meal examples and extrude to you liking.
+Or use the ready-meal examples and extrude to you liking:
+https://www.printables.com/model/1897122-universal-build-platform
 
