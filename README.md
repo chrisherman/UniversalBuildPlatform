@@ -1,7 +1,9 @@
 # UniversalBuildPlatform
 
 This project is about creating a simple intelocking build platform for hardware projects.
-It uses trapezoidal connectors.
+It uses trapezoidal connectors. The design is self-mating, meaning that you print the same part twice and they fit together w/o modification.
+(the design has a 0.1mm gap between the trapezoidal elements).
+
 
 # Universal Mounting System Generator (Fusion 360 Add-In)
 
