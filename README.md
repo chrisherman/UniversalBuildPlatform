@@ -32,6 +32,8 @@ A parametric Autodesk Fusion script to rapidly generate modular, multi-node moun
 * **Flawless Mechanical Interlock:** Geometric trapezoidal tracks distribute load evenly and snap into place with satisfying procedural precision—no loose parts, no sloppy friction fits.
 * **First-Principles Efficiency:** You get maximum structural rigidity using minimal raw material, custom-tailored to the exact physical envelope of your specific rig or workbench.
 
+
+## Oh, did I mention it fits with gridfinity (3x14mm=42mm, gridfinity standard cell)
 ---
 
 ## 🛠️ Parameters
